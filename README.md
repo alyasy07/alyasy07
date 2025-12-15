@@ -60,18 +60,6 @@ When I'm not coding or designing, I enjoy exploring new design trends and improv
   </a>
 </p>
 
----
-
-## 🌟 Featured Projects
-
-| **Project** | **Tech Stack** | **Link** |
-|-------------|----------------|----------|
-| **Smootea Learning Access System** | Laravel, MySQL, Bootstrap | [View Prototype](https://www.figma.com/proto/qBZzlXpmfnoeQIMBErg2J/slaces) |
-| **GERIC Integrated Management System** | Figma, System Design | [View Prototype](https://www.figma.com/proto/4FJYPoJ4iwaFNfAWV0aXZn/GIMS) |
-| **Recipe Sharing Application** | Java EE, Web Development | [GitHub Repo](https://github.com/athirahmmn/Group_Project_CSC584) |
-| **Fashion Recommendation App** | Figma, UI/UX Design | [View Prototype](https://www.figma.com/proto/ktsdaRl9B2JUcRxPbWw9P3/ISP640) |
-
----
 
 <p align="center">
   <i>Information Systems Engineering • UI/UX Design • System Development</i>
