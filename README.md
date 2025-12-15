@@ -1,4 +1,4 @@
-# 💼 Technical Portfolio
+# 💼 ABOUT ME
 
 ## 🛠️ Tech Stack
 
