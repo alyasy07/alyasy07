@@ -34,7 +34,6 @@
 
 ## 📊 GitHub Metrics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyasy07&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=dark&hide_border=true)
 
 ### **Most Used Languages**
