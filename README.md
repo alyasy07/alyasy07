@@ -36,14 +36,6 @@ When I'm not coding or designing, I enjoy exploring new design trends and improv
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasy07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alyasy07&theme=dark&hide_border=true&background=0D1117&ring=c41e3a&fire=c41e3a&currStreakNum=ffffff&currStreakLabel=c41e3a" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alyasy07&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7&title=Stars,Commit,Issues,PullRequest,Followers,Repositories" alt="GitHub Trophies" />
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyasy07&theme=github-dark&hide_border=true&bg_color=0D1117&color=c41e3a&line=c41e3a&point=ffffff" alt="GitHub Activity Graph" />
