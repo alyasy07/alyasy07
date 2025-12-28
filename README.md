@@ -51,12 +51,12 @@
   
   <!-- GitHub Stats Card -->
   <a href="https://github.com/alyasy07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alyasy07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   
   <!-- Top Languages Card -->
   <a href="https://github.com/alyasy07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasy07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=c41e3a&text_color=ffffff&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alyasy07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=c41e3a&text_color=ffffff&langs_count=8" alt="Top Languages" />
   </a>
 
 </div>
@@ -65,7 +65,7 @@
   
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alyasy07&theme=radical&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=alyasy07&theme=radical&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
   </a>
 
 </div>
@@ -74,16 +74,6 @@
 <div align="center">
   <a href="https://github.com/alyasy07">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyasy07&custom_title=Syafika%20Alya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=c41e3a&line=c41e3a&point=ffffff&area=true&hide_border=true&title_color=ffffff" alt="GitHub Activity Graph" width="90%" />
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alyasy07&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -126,17 +116,5 @@
   <a href="https://docs.google.com/document/d/165xFI6Q6CH3vPkMWayzCqvWE4w7bfa86huOshAD3dy0/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
-  <a href="https://www.behance.net/syafikaalya" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
 </p>
 
----
-
-## 🎯 Current Focus
-
-```text
-🌱 Learning:    Advanced UI/UX Principles | System Architecture
-🔭 Working on:  Laravel Projects | Portfolio Website
-📚 Studying:   Database Optimization | Design Systems
-🎯 Goals:      Contribute to Open Source | Build Scalable Apps
