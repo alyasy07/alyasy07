@@ -51,12 +51,12 @@
   
   <!-- GitHub Stats Card -->
   <a href="https://github.com/alyasy07">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a&hide=issues&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   
   <!-- Top Languages Card -->
   <a href="https://github.com/alyasy07">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasy07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasy07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=c41e3a&text_color=ffffff&langs_count=8" alt="Top Languages" />
   </a>
 
 </div>
@@ -65,7 +65,7 @@
   
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img height="165em" src="https://streak-stats.demolab.com/?user=alyasy07&theme=dark&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a&sideNums=c41e3a&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alyasy07&theme=radical&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
   </a>
 
 </div>
@@ -73,7 +73,7 @@
 <!-- GitHub Activity Graph -->
 <div align="center">
   <a href="https://github.com/alyasy07">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyasy07&theme=github-dark&hide_border=true&bg_color=0D1117&color=c41e3a&line=c41e3a&point=ffffff&area=true&area_color=c41e3a&title_color=ffffff" alt="GitHub Activity Graph" width="90%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyasy07&custom_title=Syafika%20Alya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=c41e3a&line=c41e3a&point=ffffff&area=true&hide_border=true&title_color=ffffff" alt="GitHub Activity Graph" width="90%" />
   </a>
 </div>
 
@@ -83,27 +83,31 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alyasy07&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alyasy07&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Calendar
 
 <div align="center">
   
-  <!-- Static Contribution Graph (Fallback if snake doesn't work) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a&custom_title=Syafika%20Alya%27s%20Contribution%20Graph&hide=stars,prs,contribs" alt="Contribution Graph" width="80%" />
+  <!-- GitHub Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/c41e3a/alyasy07" alt="GitHub Contribution Chart" width="87%" />
   
 </div>
 
-<!-- Snake Animation (Optional - requires workflow setup) -->
-<!--
+<br/>
+
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alyasy07/alyasy07/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alyasy07/alyasy07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alyasy07/alyasy07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alyasy07/alyasy07/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
--->
 
 ---
 
