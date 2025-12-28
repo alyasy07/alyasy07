@@ -65,7 +65,7 @@
   
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=alyasy07&theme=radical&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=alyasy07&theme=radical&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
   </a>
 
 </div>
@@ -120,13 +120,3 @@
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
 </p>
-
----
-
-## 🎯 Current Focus
-
-```text
-🌱 Learning:    Advanced UI/UX Principles | System Architecture
-🔭 Working on:  Laravel Projects | Portfolio Website
-📚 Studying:   Database Optimization | Design Systems
-🎯 Goals:      Contribute to Open Source | Build Scalable Apps
