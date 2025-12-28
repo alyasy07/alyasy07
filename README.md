@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Syafika Alya!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=c41e3a&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Information+Systems+Engineer;UI%2FUX+Designer+%26+Developer;Building+Functional+%2B+Aesthetic+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=c41e3a&center=true&vCenter=true&width=600&lines=Information+Systems+Engineer;UI/UX+Designer" alt="Typing Animation" />
 </p>
 
 ## 👩‍💻 About Me
@@ -65,7 +65,7 @@
   
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=alyasy07&theme=radical&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=alyasy07&theme=radical&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
   </a>
 
 </div>
@@ -116,5 +116,17 @@
   <a href="https://docs.google.com/document/d/165xFI6Q6CH3vPkMWayzCqvWE4w7bfa86huOshAD3dy0/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
+  <a href="https://www.behance.net/syafikaalya" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
 </p>
 
+---
+
+## 🎯 Current Focus
+
+```text
+🌱 Learning:    Advanced UI/UX Principles | System Architecture
+🔭 Working on:  Laravel Projects | Portfolio Website
+📚 Studying:   Database Optimization | Design Systems
+🎯 Goals:      Contribute to Open Source | Build Scalable Apps
