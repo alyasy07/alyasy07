@@ -1,48 +1,93 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=alyasy07&label=Profile%20views&color=0e75b6&style=flat" alt="alyasy07" /> </p>
-
-<p align='center' style='margin: 16px 4px 8px; min-height: 100px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c41e3a&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;Information+Systems+Engineer+%7C+UI%2FUX+Designer" alt="Welcome to my GitHub Profile. Information Systems Engineer | UI/UX Designer." />
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alyasy07.alyasy07" alt="visitor count"/>
 </p>
 
-## 👤 About
+<h1 align="center">👋 Hello, I'm Syafika Alya!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=c41e3a&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Information+Systems+Engineer;UI%2FUX+Designer+%26+Developer;Building+Functional+%2B+Aesthetic+Solutions" alt="Typing Animation" />
+</p>
 
-<p>
-✅ Detail-oriented Information Systems Engineering student with hands-on experience in system development, UI/UX design, and technical documentation.
+## 👩‍💻 About Me
 
-I specialize in creating functional digital solutions with aesthetic design principles, blending technical expertise with creative vision. Passionate about building systems that are both robust and visually compelling.
+🎓 **Information Systems Engineering Student**  
+✨ Passionate about creating digital solutions that blend **technical robustness** with **beautiful design**  
+🎨 UI/UX Designer with an eye for detail and user-centered approach  
+🚀 Always learning and exploring new technologies and design trends
 
-When I'm not coding or designing, I enjoy exploring new design trends and improving user experiences.
+> *"Good design is as little design as possible." – Dieter Rams*
 
 ---
-
-</p>
 
 ## 🛠️ Tech Stack
 
-| **Category** | **Technologies** |
-| - | - |
-| **Core Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| **Backend & Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-| **Frontend & UI/UX** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) |
+### **🌐 Frontend & Design**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+### **⚙️ Backend & Databases**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **💻 Languages & Tools**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📊 GitHub Metrics 
+## 📊 GitHub Stats
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=alyasy07&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+  
+  <!-- Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a&hide=issues" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasy07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alyasy07&theme=dark&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a" alt="GitHub Streak" />
+
+</div>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyasy07&theme=github-dark&hide_border=true&bg_color=0D1117&color=c41e3a&line=c41e3a&point=ffffff" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyasy07&theme=github-dark&hide_border=true&bg_color=0D1117&color=c41e3a&line=c41e3a&point=ffffff&area=true&area_color=c41e3a&title_color=ffffff" alt="GitHub Activity Graph" width="90%" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alyasy07&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Heatmap
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alyasy07/alyasy07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syafika-zamri/" target="_blank">
@@ -57,11 +102,25 @@ When I'm not coding or designing, I enjoy exploring new design trends and improv
   <a href="https://docs.google.com/document/d/165xFI6Q6CH3vPkMWayzCqvWE4w7bfa86huOshAD3dy0/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
+  <a href="https://www.behance.net/syafikaalya" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
 </p>
 
+---
+
+## 🎯 Current Focus
+
+- 🔭 Working on **Laravel-based enterprise systems**
+- 🌱 Learning **Advanced UI/UX principles**
+- 👯 Looking to collaborate on **open-source design systems**
+- 💬 Ask me about **PHP, Laravel, or UI/UX design**
+- ⚡ Fun fact: **I design before I code – wireframes are my best friends!**
+
+---
 
 <p align="center">
-  <i>Information Systems Engineering • UI/UX Design • System Development</i>
+  <i>"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs</i>
 </p>
 
 <p align="center">
