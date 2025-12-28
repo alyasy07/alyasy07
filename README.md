@@ -64,8 +64,8 @@
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=alyasy07&theme=radical&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+<a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=alyasy07&theme=dark&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a" alt="GitHub Streak Stats" />
   </a>
 
 </div>
@@ -115,8 +115,5 @@
   </a>
   <a href="https://docs.google.com/document/d/165xFI6Q6CH3vPkMWayzCqvWE4w7bfa86huOshAD3dy0/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="https://www.behance.net/syafikaalya" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
 </p>
