@@ -31,9 +31,8 @@ When I'm not coding or designing, I enjoy exploring new design trends and improv
 
 ## 📊 GitHub Metrics 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a" alt="alyasy07's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasy07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&langs_count=8" alt="Top Languages" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=alyasy07&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <!-- Activity Graph -->
