@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alyasy07.alyasy07" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=alyasy07&label=Profile%20views&color=0e75b6&style=flat" alt="alyasy07" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Syafika Alya!</h1>
@@ -49,41 +49,61 @@
 
 <div align="center">
   
-  <!-- Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a&hide=issues" alt="GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/alyasy07">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a&hide=issues&count_private=true" alt="GitHub Stats" />
+  </a>
   
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasy07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <a href="https://github.com/alyasy07">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasy07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
+  </a>
 
 </div>
 
 <div align="center">
   
-  <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alyasy07&theme=dark&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img height="165em" src="https://streak-stats.demolab.com/?user=alyasy07&theme=dark&hide_border=true&background=0D1117&stroke=c41e3a&ring=c41e3a&fire=c41e3a&currStreakLabel=c41e3a&sideNums=c41e3a&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+  </a>
 
 </div>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyasy07&theme=github-dark&hide_border=true&bg_color=0D1117&color=c41e3a&line=c41e3a&point=ffffff&area=true&area_color=c41e3a&title_color=ffffff" alt="GitHub Activity Graph" width="90%" />
-</p>
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <a href="https://github.com/alyasy07">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyasy07&theme=github-dark&hide_border=true&bg_color=0D1117&color=c41e3a&line=c41e3a&point=ffffff&area=true&area_color=c41e3a&title_color=ffffff" alt="GitHub Activity Graph" width="90%" />
+  </a>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alyasy07&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alyasy07&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
 
-## 📈 Contribution Heatmap
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alyasy07/alyasy07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  
+  <!-- Static Contribution Graph (Fallback if snake doesn't work) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alyasy07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=c41e3a&icon_color=c41e3a&custom_title=Syafika%20Alya%27s%20Contribution%20Graph&hide=stars,prs,contribs" alt="Contribution Graph" width="80%" />
+  
+</div>
+
+<!-- Snake Animation (Optional - requires workflow setup) -->
+<!--
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alyasy07/alyasy07/output/snake.svg" alt="Snake animation" />
+</div>
+-->
 
 ---
 
@@ -111,18 +131,8 @@
 
 ## 🎯 Current Focus
 
-- 🔭 Working on **Laravel-based enterprise systems**
-- 🌱 Learning **Advanced UI/UX principles**
-- 👯 Looking to collaborate on **open-source design systems**
-- 💬 Ask me about **PHP, Laravel, or UI/UX design**
-- ⚡ Fun fact: **I design before I code – wireframes are my best friends!**
-
----
-
-<p align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c41e3a&height=60&section=footer&width=100%" alt="Footer" />
-</p>
+```text
+🌱 Learning:    Advanced UI/UX Principles | System Architecture
+🔭 Working on:  Laravel Projects | Portfolio Website
+📚 Studying:   Database Optimization | Design Systems
+🎯 Goals:      Contribute to Open Source | Build Scalable Apps
