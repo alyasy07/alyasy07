@@ -115,4 +115,7 @@
   <a href="https://docs.google.com/document/d/165xFI6Q6CH3vPkMWayzCqvWE4w7bfa86huOshAD3dy0/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
+  <a href="https://alyasy07.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
